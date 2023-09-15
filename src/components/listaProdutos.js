@@ -7,7 +7,7 @@ export const listaProdutos = [
     {
         id: 2,
         nome: 'Mouse',
-        preco: 120
+        preco: 60
     },
     {
         id: 3,
